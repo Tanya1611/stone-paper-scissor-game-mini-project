@@ -1,2 +1,2 @@
 # stone-paper-scissor-game-mini-project
-A python mini project of a game played by two players with the option of playing with the computer or another player.
+A Python mini-project of a game played by two players, with the option to play against the computer or another player.
